@@ -17,4 +17,3 @@ A frail Brooklyn volunteer is transformed into a super-soldier to fight the Nazi
 ## Poster
 ![poster](../../posters/captain-america-the-first-avenger.jpg)
 
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.
