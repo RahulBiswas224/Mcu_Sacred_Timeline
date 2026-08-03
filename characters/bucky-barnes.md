@@ -1,5 +1,7 @@
 # Bucky Barnes / Winter Soldier
 
+
+![portrait](../characters-images/bucky-barnes.jpg)
 **First Appearance:** Captain America: The Winter Soldier
 **Played by:** Sebastian Stan
 

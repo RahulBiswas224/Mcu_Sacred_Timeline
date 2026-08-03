@@ -1,5 +1,7 @@
 # Steve Rogers / Captain America
 
+
+![portrait](../characters-images/captain-america.jpg)
 **First Appearance:** Captain America: The First Avenger
 **Played by:** Chris Evans
 

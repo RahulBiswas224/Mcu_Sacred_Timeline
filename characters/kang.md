@@ -1,5 +1,7 @@
 # Kang the Conqueror
 
+
+![portrait](../characters-images/kang.jpg)
 **First Appearance:** Ant-Man and the Wasp: Quantumania
 **Played by:** Jonathan Majors
 

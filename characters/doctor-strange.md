@@ -1,5 +1,7 @@
 # Stephen Strange / Doctor Strange
 
+
+![portrait](../characters-images/doctor-strange.jpg)
 **First Appearance:** Doctor Strange
 **Played by:** Benedict Cumberbatch
 

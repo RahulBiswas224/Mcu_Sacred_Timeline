@@ -1,5 +1,7 @@
 # Thor Odinson
 
+
+![portrait](../characters-images/thor.jpg)
 **First Appearance:** Thor
 **Played by:** Chris Hemsworth
 

@@ -1,5 +1,7 @@
 # Clint Barton / Hawkeye
 
+
+![portrait](../characters-images/hawkeye.jpg)
 **First Appearance:** The Avengers
 **Played by:** Jeremy Renner
 

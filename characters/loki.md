@@ -1,5 +1,7 @@
 # Loki Laufeyson
 
+
+![portrait](../characters-images/loki.jpg)
 **First Appearance:** Thor
 **Played by:** Tom Hiddleston
 

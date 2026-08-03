@@ -1,5 +1,7 @@
 # Scott Lang / Ant-Man
 
+
+![portrait](../characters-images/ant-man.jpg)
 **First Appearance:** Ant-Man
 **Played by:** Paul Rudd
 

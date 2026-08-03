@@ -1,5 +1,7 @@
 # Loki (2012 Variant)
 
+
+![portrait](../characters-images/loki-variant.jpg)
 **First Appearance:** loki-tva-timeline branch
 **Played by:** Tom Hiddleston
 

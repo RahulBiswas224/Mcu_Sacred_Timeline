@@ -1,5 +1,7 @@
 # Carol Danvers / Captain Marvel
 
+
+![portrait](../characters-images/captain-marvel.jpg)
 **First Appearance:** Captain Marvel
 **Played by:** Brie Larson
 
