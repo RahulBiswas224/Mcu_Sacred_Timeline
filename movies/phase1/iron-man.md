@@ -16,6 +16,3 @@ Billionaire engineer Tony Stark builds a powered suit of armor after being held 
 
 ## Poster
 ![poster](../../posters/iron-man.jpg)
-*(Drop an official poster file named `iron-man.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

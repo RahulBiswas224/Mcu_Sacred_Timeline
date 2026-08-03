@@ -16,6 +16,3 @@ The Guardians face new threats as Peter Quill discovers the truth about his cele
 
 ## Poster
 ![poster](../../posters/guardians-of-the-galaxy-vol-2.jpg)
-*(Drop an official poster file named `guardians-of-the-galaxy-vol-2.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

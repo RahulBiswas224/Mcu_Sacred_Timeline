@@ -18,6 +18,3 @@ The surviving Avengers undertake a time heist across the Infinity Saga to undo T
 
 ## Poster
 ![poster](../../posters/avengers-endgame.jpg)
-*(Drop an official poster file named `avengers-endgame.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

@@ -15,6 +15,3 @@ Carol Danvers, Kamala Khan, and Monica Rambeau have their powers entangled, forc
 
 ## Poster
 ![poster](../../posters/the-marvels.jpg)
-*(Drop an official poster file named `the-marvels.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

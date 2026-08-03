@@ -15,6 +15,3 @@ A spell gone wrong tears open the multiverse, bringing villains — and heroes �
 
 ## Poster
 ![poster](../../posters/spider-man-no-way-home.jpg)
-*(Drop an official poster file named `spider-man-no-way-home.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

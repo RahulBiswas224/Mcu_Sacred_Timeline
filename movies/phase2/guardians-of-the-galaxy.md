@@ -17,6 +17,3 @@ A ragtag group of misfits bands together to stop a fanatical warrior from acquir
 
 ## Poster
 ![poster](../../posters/guardians-of-the-galaxy.jpg)
-*(Drop an official poster file named `guardians-of-the-galaxy.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

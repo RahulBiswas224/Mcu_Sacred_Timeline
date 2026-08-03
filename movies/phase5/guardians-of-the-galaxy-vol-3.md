@@ -16,6 +16,3 @@ The Guardians undertake a dangerous mission to save Rocket's life, uncovering hi
 
 ## Poster
 ![poster](../../posters/guardians-of-the-galaxy-vol-3.jpg)
-*(Drop an official poster file named `guardians-of-the-galaxy-vol-3.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

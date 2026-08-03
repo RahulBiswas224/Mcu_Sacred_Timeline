@@ -16,6 +16,3 @@ Thanos begins his quest to collect all six Infinity Stones; the Avengers and Gua
 
 ## Poster
 ![poster](../../posters/avengers-infinity-war.jpg)
-*(Drop an official poster file named `avengers-infinity-war.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

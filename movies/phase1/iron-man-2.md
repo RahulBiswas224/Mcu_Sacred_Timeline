@@ -16,6 +16,3 @@ Tony Stark battles palladium poisoning and a vengeful rival engineer while S.H.I
 
 ## Poster
 ![poster](../../posters/iron-man-2.jpg)
-*(Drop an official poster file named `iron-man-2.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

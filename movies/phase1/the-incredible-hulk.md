@@ -15,6 +15,3 @@ On the run from the military, Bruce Banner searches for a cure to the gamma-radi
 
 ## Poster
 ![poster](../../posters/the-incredible-hulk.jpg)
-*(Drop an official poster file named `the-incredible-hulk.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

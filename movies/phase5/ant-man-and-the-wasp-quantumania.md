@@ -15,6 +15,3 @@ The Ant-Man family is pulled into the Quantum Realm and confronts the time-conqu
 
 ## Poster
 ![poster](../../posters/ant-man-and-the-wasp-quantumania.jpg)
-*(Drop an official poster file named `ant-man-and-the-wasp-quantumania.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

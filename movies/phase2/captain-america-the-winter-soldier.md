@@ -16,6 +16,3 @@ Steve Rogers uncovers a HYDRA conspiracy hiding inside S.H.I.E.L.D. while facing
 
 ## Poster
 ![poster](../../posters/captain-america-the-winter-soldier.jpg)
-*(Drop an official poster file named `captain-america-the-winter-soldier.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

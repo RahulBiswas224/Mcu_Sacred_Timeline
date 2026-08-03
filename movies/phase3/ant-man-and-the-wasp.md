@@ -16,6 +16,3 @@ Scott Lang partners with Hope van Dyne to rescue her mother from the Quantum Rea
 
 ## Poster
 ![poster](../../posters/ant-man-and-the-wasp.jpg)
-*(Drop an official poster file named `ant-man-and-the-wasp.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

@@ -14,6 +14,3 @@ Deadpool is recruited by the TVA and teams up with a variant of Wolverine to fix
 
 ## Poster
 ![poster](../../posters/deadpool-and-wolverine.jpg)
-*(Drop an official poster file named `deadpool-and-wolverine.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

@@ -15,6 +15,3 @@ Set in the aftermath of Civil War, Natasha Romanoff confronts her past as a Russ
 
 ## Poster
 ![poster](../../posters/black-widow.jpg)
-*(Drop an official poster file named `black-widow.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

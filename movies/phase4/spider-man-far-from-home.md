@@ -15,6 +15,3 @@ Peter Parker travels to Europe on a school trip that turns into a mission agains
 
 ## Poster
 ![poster](../../posters/spider-man-far-from-home.jpg)
-*(Drop an official poster file named `spider-man-far-from-home.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

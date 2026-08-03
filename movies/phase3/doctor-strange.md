@@ -15,6 +15,3 @@ A brilliant but arrogant surgeon studies the mystic arts after a car accident de
 
 ## Poster
 ![poster](../../posters/doctor-strange.jpg)
-*(Drop an official poster file named `doctor-strange.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

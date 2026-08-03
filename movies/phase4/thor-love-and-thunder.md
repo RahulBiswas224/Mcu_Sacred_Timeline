@@ -15,6 +15,3 @@ Thor seeks inner peace but is drawn back into action against Gorr the God Butche
 
 ## Poster
 ![poster](../../posters/thor-love-and-thunder.jpg)
-*(Drop an official poster file named `thor-love-and-thunder.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

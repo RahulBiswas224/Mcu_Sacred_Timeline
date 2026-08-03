@@ -16,6 +16,3 @@ Thor is imprisoned on the planet Sakaar and must escape to stop his sister Hela 
 
 ## Poster
 ![poster](../../posters/thor-ragnarok.jpg)
-*(Drop an official poster file named `thor-ragnarok.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

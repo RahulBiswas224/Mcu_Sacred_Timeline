@@ -15,6 +15,3 @@ Peter Parker balances high school life with his new responsibilities as Spider-M
 
 ## Poster
 ![poster](../../posters/spider-man-homecoming.jpg)
-*(Drop an official poster file named `spider-man-homecoming.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

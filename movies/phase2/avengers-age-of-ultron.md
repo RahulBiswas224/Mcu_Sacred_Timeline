@@ -16,6 +16,3 @@ Tony Stark's AI peacekeeping program Ultron turns against humanity, forcing the 
 
 ## Poster
 ![poster](../../posters/avengers-age-of-ultron.jpg)
-*(Drop an official poster file named `avengers-age-of-ultron.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

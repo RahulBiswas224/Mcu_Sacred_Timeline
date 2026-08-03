@@ -15,6 +15,3 @@ Ex-con Scott Lang dons a suit that lets him shrink in scale, training under Hank
 
 ## Poster
 ![poster](../../posters/ant-man.jpg)
-*(Drop an official poster file named `ant-man.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

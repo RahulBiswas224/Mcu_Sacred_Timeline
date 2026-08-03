@@ -16,6 +16,3 @@ Wakanda fights to protect itself from world powers in the wake of T'Challa's dea
 
 ## Poster
 ![poster](../../posters/black-panther-wakanda-forever.jpg)
-*(Drop an official poster file named `black-panther-wakanda-forever.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

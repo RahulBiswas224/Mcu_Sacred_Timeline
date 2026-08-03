@@ -17,6 +17,3 @@ The Avengers fracture into opposing factions over a government act to regulate s
 
 ## Poster
 ![poster](../../posters/captain-america-civil-war.jpg)
-*(Drop an official poster file named `captain-america-civil-war.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

@@ -15,6 +15,3 @@ Thor must protect the Nine Realms from the ancient Dark Elf Malekith, who seeks 
 
 ## Poster
 ![poster](../../posters/thor-the-dark-world.jpg)
-*(Drop an official poster file named `thor-the-dark-world.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

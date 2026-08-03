@@ -15,6 +15,3 @@ Still shaken after the Battle of New York, Tony Stark confronts the terrorist Ma
 
 ## Poster
 ![poster](../../posters/iron-man-3.jpg)
-*(Drop an official poster file named `iron-man-3.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.

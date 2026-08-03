@@ -15,6 +15,3 @@ A group of ancient immortal beings reveal themselves to protect Earth from their
 
 ## Poster
 ![poster](../../posters/eternals.jpg)
-*(Drop an official poster file named `eternals.jpg` into /posters to render this.)*
-
-> Note: box office figures are ballpark, for demo purposes — swap in exact numbers if this repo needs to be accurate.
